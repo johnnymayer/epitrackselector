@@ -70,9 +70,9 @@ var calcPoints = function(ans1, ans2, ans3, ans4, ans5) {
 };
 
 var determineTrack = function(points) {
-  if (points >= -5 && points < 0) {
+  if (points > -20 && points < -10) {
     $("#ruby").show();
-  } else if (points >= 1 && points < 70) {
+  } else if (points >= -11 && points < 0) {
     $("#java").show();
   } else {
     $("#css").show();

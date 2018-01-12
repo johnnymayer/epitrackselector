@@ -12,6 +12,7 @@ body {
 
 p {
   text-align: center;
+  color: #E0E0E0;
 }
 
 .blueText {
@@ -19,17 +20,19 @@ p {
 }
 
 .well {
-  margin-left: 25%;
-  margin-right: 25%;
-  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
   text-align: center;
-  display: inline-block;
-
+  background: linear-gradient(to bottom left, #607B7D, #3A606E)
 }
 
 .jumbotronheader {
-  margin: auto;
-  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
   border-radius: 12px;
   text-align: center;
   text-shadow: 3px 3px #607B7D;
@@ -53,9 +56,10 @@ p {
   color: #3A606E;
 }
 
-#results{
+.track {
   display: none;
 }
+
 /*
 
 color palette reference
