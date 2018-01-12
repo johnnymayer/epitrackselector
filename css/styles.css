@@ -23,7 +23,7 @@ p {
   margin-right: 25%;
 }
 
-#jumbotronheader {
+.jumbotronheader {
   margin: auto;
   width: 50%;
   border-radius: 12px;
@@ -47,6 +47,10 @@ p {
   background-color: #fff;
   border-color: #3A606E;
   color: #3A606E;
+}
+
+#results{
+  display: none;
 }
 /*
 
