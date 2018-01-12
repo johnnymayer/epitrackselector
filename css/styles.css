@@ -56,10 +56,10 @@ p {
   color: #3A606E;
 }
 
-.track {
+.trackDisplay{
   display: none;
+  text-align: center;
 }
-
 /*
 
 color palette reference
