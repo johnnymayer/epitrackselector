@@ -1,0 +1,29 @@
+body {
+  
+}
+
+p {
+  text-align: center;
+}
+
+#jumbotronheader {
+  text-align: center;
+  text-shadow: 3px 3px #607B7D;
+  color: #E0E0E0;
+  background: linear-gradient(to bottom right, #607B7D, #3A606E)
+}
+
+#gradient1 {
+  background: linear-gradient(to bottom right, #3A606E, #607B7D);
+  color: #E0E0E0;
+}
+
+
+/*
+
+color palette reference
+#3A606E - denim like blue
+#607B7D - slate blueish
+#828E82 - grey olive
+#AAAE8E - lighter olive
+#E0E0E0 - whiteish
