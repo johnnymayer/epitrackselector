@@ -21,6 +21,10 @@ p {
 .well {
   margin-left: 25%;
   margin-right: 25%;
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+
 }
 
 .jumbotronheader {

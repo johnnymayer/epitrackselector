@@ -9,6 +9,8 @@ $(document).ready(function(){
     var ans3 = $("#ans3").val().length;
     var ans4 = $("#ans4").val().length;
     var ans5 = $("#ans5").val().length;
+    var results = userName+userBday+ans1+ans2+ans3+ans4+ans5;
+    console.log(results)
     console.log(userName, userBday, ans1, ans2, ans3, ans4, ans5)
   });
 });
