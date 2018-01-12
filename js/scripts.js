@@ -1,6 +1,5 @@
 $(document).ready(function(){
-
-  $("#userInfo").submit(function(event){
+  $("#userAns").submit(function(event){
     event.preventDefault();
     var userName = $("#userName").val();
     var userBday = $("#userBday").val();
@@ -9,5 +8,6 @@ $(document).ready(function(){
     var ans3 = $("#ans3").val();
     var ans4 = $("#ans4").val();
     var ans5 = $("#ans5").val();
+    console.log(userName, userBday, ans1, ans2, ans3, ans4, ans5);
   });
 });

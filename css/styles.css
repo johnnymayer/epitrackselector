@@ -33,6 +33,21 @@ p {
   background: linear-gradient(to bottom right, #607B7D, #3A606E)
 }
 
+.btn-submit {
+  border-radius: 24px;
+  border-color: #828E82;
+  color: #E0E0E0;
+  padding: 15px;
+  background-color: #3A606E;
+  border-color: #607B7D;
+  margin-top: 15px;
+}
+
+.btn-submit:hover {
+  background-color: #fff;
+  border-color: #3A606E;
+  color: #3A606E;
+}
 /*
 
 color palette reference
