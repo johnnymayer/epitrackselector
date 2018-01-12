@@ -1,23 +1,37 @@
+html {
+  height: 100%;
+}
+
 body {
-  
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(to bottom right, #3A606E, #607B7D);
 }
 
 p {
   text-align: center;
 }
 
+.blueText {
+    color: #3A606E;
+}
+
+.well {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
 #jumbotronheader {
+  margin: auto;
+  width: 50%;
+  border-radius: 12px;
   text-align: center;
   text-shadow: 3px 3px #607B7D;
   color: #E0E0E0;
   background: linear-gradient(to bottom right, #607B7D, #3A606E)
 }
-
-#gradient1 {
-  background: linear-gradient(to bottom right, #3A606E, #607B7D);
-  color: #E0E0E0;
-}
-
 
 /*
 
