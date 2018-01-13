@@ -4,7 +4,9 @@
 A small quiz to determine what programming language and track you should study!
 
 ## Download
-Visit https://github.com/johnnymayer/epitrackselector
+Visit https://johnnymayer.github.io/epitrackselector/
+OR
+Check repository at https://github.com/johnnymayer/epitrackselector
 OR
 Clone via https://github.com/johnnymayer/epitrackselector.git
 
