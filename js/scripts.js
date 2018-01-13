@@ -15,6 +15,10 @@ $(document).ready(function(){
   });
 });
 
+function reloader() {
+    location.reload();
+}
+
 var ans1;
 var ans2;
 var ans3;
