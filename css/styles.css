@@ -13,6 +13,7 @@ body {
 p {
   text-align: center;
   color: #E0E0E0;
+  font-size: 24px;
 }
 
 .blueText {
@@ -26,6 +27,10 @@ p {
   width: 600px;
   text-align: center;
   background: linear-gradient(to bottom left, #607B7D, #3A606E)
+}
+
+.date {
+  width: 50%;
 }
 
 .jumbotronheader {
